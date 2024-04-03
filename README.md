@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me phatt@gutearbyte.de
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: good code is hard to write - it should be hard to unersstand :P
 
 <!---
 gutearbyte/gutearbyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
